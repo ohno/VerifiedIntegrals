@@ -1,1 +1,2 @@
-import VerifiedIntegrals.Basic
+import VerifiedIntegrals.Gradshteyn.S3_321_3
+import VerifiedIntegrals.Gradshteyn.S3_351_3
